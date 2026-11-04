@@ -16,5 +16,5 @@ ________________________________________________________________________________
 ✨Kendimi geliştirmeye ve yeni projeler üretmeye devam ediyorum!
 
 📫Bana Ulaşmak İçin
-[LinkedIn](https://www.linkedin.com/in/azra-erdemci-724b3638a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-**E-posta:**azraerdemci110@gmail.com
+[LinkedIn](https://www.linkedin.com/in/azra-erdemci-724b3638a?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
+**E-posta:**azraerdemci110@gmail.com  
