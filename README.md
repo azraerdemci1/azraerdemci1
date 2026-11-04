@@ -1,10 +1,10 @@
 Merhaba ben Azra!
 Bursa Uludağ Üniversitesi bilgisayar mühendisliği 1. sınıf öğrencisiyim, yazılım geliştirme ve teknolojiyle ilgileniyorum. Elektrikli araçlar ve motor teknolojileri üzerine araştırmalar yapıyorum. Yeni bilgiler öğrenmeye açık ve hevesliyim.
 ______________________________________________________________________________________________________________________________________________________________________
-#İlgi Alanlarım
-👾Siber güvenlik derslerine katılarak kendimi geliştirmeye çalışıyorum.
-💻Yazılım topluluğu konferanslarına aktif olarak katılıp, yazılım alanında kendimi geliştiriyorum.
-🏎️Racing grubunda elektrikli araçlar hakkında daha çok bilgi ediniyorum.
+#İlgi Alanlarım  
+👾Siber güvenlik derslerine katılarak kendimi geliştirmeye çalışıyorum.  
+💻Yazılım topluluğu konferanslarına aktif olarak katılıp, yazılım alanında kendimi geliştiriyorum.  
+🏎️Racing grubunda elektrikli araçlar hakkında daha çok bilgi ediniyorum.  
 ______________________________________________________________________________________________________________________________________________________________________
 
 🌱Şu an da öğreniyorum:
