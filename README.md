@@ -1,4 +1,4 @@
-Merhaba ben Azra!<img width="300" height="300" alt="Snapchat-1573719969" src="https://github.com/user-attachments/assets/93cf1395-84e8-470c-870d-fd64fa057223" />
+Merhaba ben Azra!
 
 Bursa Uludağ Üniversitesi bilgisayar mühendisliği 1. sınıf öğrencisiyim, yazılım geliştirme ve teknolojiyle ilgileniyorum. Elektrikli araçlar ve motor teknolojileri üzerine araştırmalar yapıyorum. Yeni bilgiler öğrenmeye açık ve hevesliyim.
 ______________________________________________________________________________________________________________________________________________________________________
